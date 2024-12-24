@@ -117,10 +117,3 @@ a{
 .form-control.error small{
     visibility: visible;
 }
-#toggle-password {
-    position: absolute;
-    right: 10px;
-    top: 50%;
-    transform: translateY(-50%);
-    cursor: pointer;
-}
